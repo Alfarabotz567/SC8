@@ -13,8 +13,8 @@ Berapapun donasi kalian akan sangat berarti 👍
 𝐀𝐫𝐢𝐠𝐚𝐭𝐨𝐮!!!
 
 Contact person Owner:
-wa.me/6281511480762 (Owner)`
-let message = await prepareWAMessageMedia({ image: {url: 'https://i.postimg.cc/C1BfTNk2/6bfc0fa448e61d8f7fe5323fcfd28518.jpg' }}, { upload: conn.waUploadToServer })
+wa.me/6289531704997 (Owner)`
+let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/51b4b2d8e32395f7b123c.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
@@ -24,14 +24,14 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://i.postimg.cc/C
            hydratedButtons: [{
              urlButton: {
                displayText: '🏧 Dana',
-               phoneNumber: '081511480762'
+               phoneNumber: '089531704997'
              }
 
            },
                {
              callButton: {
                displayText: 'Gopay',
-               phoneNumber: '081511480762'
+               phoneNumber: '-_-'
              }
            },           
                {
