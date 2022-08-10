@@ -23,7 +23,7 @@ handler.help = ['', 'before', 'header', 'body', 'footer', 'after'].map(v => 'set
 handler.tags = ['owner']
 handler.command = /^set(menu|help|\?)(before|header|body|footer|after)?$/i
 handler.owner = true
-handler.mods = false
+handler.mods = true
 handler.premium = false
 handler.group = false
 handler.private = false
