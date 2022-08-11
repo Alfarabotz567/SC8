@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 •Sc? Buy,Chat owner
-•No enc 89%
+•No enc 98%
 •Work 100%
 •AntiBanned
 •Allmenu
