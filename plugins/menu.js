@@ -178,14 +178,14 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: '✏️ Yt Chanel',
-               url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+               url: 'https://youtube.com/channel/UCaFh82MyrVgcgIvJxvTA39w'
              }
 
            },
              {
              callButton: {
                displayText: 'Hp Owner',
-               PhoneNumber: '0815-1148-0872'
+               PhoneNumber: '0856-2482-3115'
              }
 
            },
